@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Aman Kumar Jaiswal
 
-### 💻 Aspiring Software Developer | Full Stack Developer | DSA Enthusiast
+### 💻 Aspiring Software Developer | MERN Stack Developer | DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;C%2B%2B+Programmer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Competitive+Programmer;Building+Projects+Every+Day;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=amankumarjaiswal08&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -12,35 +12,35 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **MERN Stack**
-- 💻 Passionate about **Web Development & Problem Solving**
-- 🧠 Regularly practicing **Data Structures & Algorithms**
-- 🎯 Goal: Become a **Software Development Engineer (SDE)**
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning the MERN Stack
+- 🧠 Solving Data Structures & Algorithms daily
+- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/aman-kumar-jaiswal-b23248326/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://leetcode.com/u/amankjai/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
 </a>
 
 <a href="mailto:2k24.cs1c.2413983@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -49,11 +49,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amankumarjaiswal08&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
 
 # 📊 GitHub Statistics
 
@@ -73,11 +68,11 @@
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
 ## 🔐 Image Steganography (C++)
 
-A command-line application that hides and extracts secret messages inside images using the Least Significant Bit (LSB) algorithm.
+A command-line application that hides and extracts secret messages inside BMP images using the Least Significant Bit (LSB) algorithm.
 
 **Tech Stack:** C++, File Handling, Image Processing
 
@@ -87,15 +82,15 @@ A command-line application that hides and extracts secret messages inside images
 
 ## 💻 LeetCode Solutions
 
-A collection of optimized C++ solutions for LeetCode problems.
+Optimized C++ solutions for Data Structures & Algorithms problems on LeetCode.
 
 🔗 https://github.com/amankumarjaiswal08/LeetCode-Solutions
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Personal Portfolio
 
-A personal portfolio showcasing my projects, skills, and learning journey.
+Responsive portfolio website showcasing my skills, projects, and achievements.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -105,35 +100,58 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 
 # 🎯 Current Goals
 
-- 🚀 Master Full Stack Development
+- 🚀 Master the MERN Stack
 - 📚 Solve 500+ DSA Problems
 - 💼 Build Industry-Level Projects
 - 🌍 Contribute to Open Source
+- ⭐ Maintain Daily GitHub Contributions
 
 ---
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarjaiswal08&theme=tokyo-night)](https://github.com/amankumarjaiswal08)
+<p align="center">
+
+[![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarjaiswal08&theme=tokyo-night)](https://github.com/amankumarjaiswal08)
+
+</p>
 
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/amankumarjaiswal08/amankumarjaiswal08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/amankumarjaiswal08/amankumarjaiswal08/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
+
+# 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amankumarjaiswal08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amankumarjaiswal08?label=Followers&style=for-the-badge" alt="Followers" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumarjaiswal08&theme=tokyonight"/>
+
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/amankumarjaiswal08?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/amankumarjaiswal08?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
 
 </div>
