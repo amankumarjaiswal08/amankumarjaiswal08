@@ -128,21 +128,10 @@ Responsive portfolio website showcasing my skills, projects, and achievements.
 
 ---
 
-# 📊 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumarjaiswal08&theme=tokyonight"/>
-
-</p>
-
----
 
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/amankumarjaiswal08?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/amankumarjaiswal08?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
