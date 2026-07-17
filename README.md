@@ -1,36 +1,30 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Jaiswal</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Developer | Full Stack Developer | C++ Programmer | DSA Enthusiast
-</h3>
+# Hi 👋, I'm Aman Kumar Jaiswal
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things"/>
-</p>
+### 💻 Aspiring Software Developer | Full Stack Developer | DSA Enthusiast
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=amankumarjaiswal08">
-<img src="https://komarev.com/ghpvc/?username=amankumarjaiswal08&label=Profile+Views&color=blue&style=for-the-badge"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;C%2B%2B+Programmer;Always+Learning+New+Technologies"/>
+
+<img src="https://komarev.com/ghpvc/?username=amankumarjaiswal08&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Student
 - 🌱 Currently learning **MERN Stack**
-- 💻 Passionate about Full Stack Development
-- 🧩 Solving Data Structures & Algorithms problems
-- 🚀 Building projects to improve my development skills
-- 🎯 Goal: Become a Software Development Engineer (SDE)
+- 💻 Passionate about **Web Development & Problem Solving**
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 🎯 Goal: Become a **Software Development Engineer (SDE)**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/aman-kumar-jaiswal-b23248326/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
@@ -42,12 +36,11 @@ Aspiring Software Developer | Full Stack Developer | C++ Programmer | DSA Enthus
 <a href="mailto:2k24.cs1c.2413983@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Languages & Tools
 
 <p align="center">
 
@@ -57,49 +50,49 @@ Aspiring Software Developer | Full Stack Developer | C++ Programmer | DSA Enthus
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amankumarjaiswal08&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amankumarjaiswal08&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarjaiswal08&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarjaiswal08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amankumarjaiswal08&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 Featured Projects
 
-<p align="center">
+## 🔐 Image Steganography (C++)
 
-<img src="https://streak-stats.demolab.com?user=amankumarjaiswal08&theme=github-dark-blue&hide_border=true"/>
+A command-line application that hides and extracts secret messages inside images using the Least Significant Bit (LSB) algorithm.
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🔐 Image Steganography in C++
-
-Hide and extract secret messages inside images using the Least Significant Bit (LSB) algorithm.
+**Tech Stack:** C++, File Handling, Image Processing
 
 🔗 https://github.com/amankumarjaiswal08/Image-Steganography-CPP
 
 ---
 
-### 💻 LeetCode Solutions
+## 💻 LeetCode Solutions
 
-Collection of optimized C++ solutions for LeetCode problems.
+A collection of optimized C++ solutions for LeetCode problems.
 
 🔗 https://github.com/amankumarjaiswal08/LeetCode-Solutions
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Portfolio Website
 
-Personal portfolio showcasing my projects and skills.
+A personal portfolio showcasing my projects, skills, and learning journey.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 🔗 https://github.com/amankumarjaiswal08/portfolio
 
@@ -107,25 +100,23 @@ Personal portfolio showcasing my projects and skills.
 
 # 🎯 Current Goals
 
-- ✅ Master MERN Stack
-- ✅ Solve 500+ DSA Problems
-- ✅ Build Industry-Level Projects
-- ✅ Contribute to Open Source
+- 🚀 Master Full Stack Development
+- 📚 Solve 500+ DSA Problems
+- 💼 Build Industry-Level Projects
+- 🌍 Contribute to Open Source
 
 ---
 
 # 📈 Contribution Graph
 
-[![Aman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarjaiswal08&theme=github-dark)](https://github.com/amankumarjaiswal08)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarjaiswal08&theme=tokyo-night)](https://github.com/amankumarjaiswal08)
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<div align="center">
 
-<p align="center">
+### ⭐ Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer"/>
 
-</p>
+</div>
