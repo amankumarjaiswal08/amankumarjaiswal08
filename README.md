@@ -112,6 +112,13 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarjaiswal08&theme=tokyo-night)](https://github.com/amankumarjaiswal08)
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/amankumarjaiswal08/amankumarjaiswal08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
 
 <div align="center">
 
