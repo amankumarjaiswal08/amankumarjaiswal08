@@ -122,6 +122,7 @@ A personal portfolio showcasing my projects, skills, and learning journey.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amankumarjaiswal08&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amankumarjaiswal08?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
 
 <div align="center">
